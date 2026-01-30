@@ -55,7 +55,7 @@ section.modelo.parallax {
 }
 
 section.modelo.parallax-1 {
-    background-image: url(/img/teste3.png);
+    background-image: url(../img/teste3.png);
 }
 
 section.modelo.parallaxe::after {
@@ -68,9 +68,9 @@ section.modelo.parallaxe::after {
 }
 
 section.modelo.parallax-2 {
-    background-image: url(/img/teste5.png);
+    background-image: url(../img/teste5.png);
 }
 
 section.modelo.parallax-3 {
-    background-image: url(/img/teste8.png);
+    background-image: url(../img/teste8.png);
 }

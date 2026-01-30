@@ -353,7 +353,6 @@ figcaption {
     font-size: 15px;
     letter-spacing: 1px;
     color: #000000;
-    /*Visando preocupaÃ§Ã£o com ambos navegadores aqui, por conta de muitos relatos de problemas*/
     text-decoration: none !important;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
