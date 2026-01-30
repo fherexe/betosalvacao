@@ -10,8 +10,11 @@
     background-position: center;
     background-repeat: no-repeat;
     color: #fff;
-    background-image: url(img/home/bgmain.png);
+    background-image: url("/img/home/bgmain.png");
 
+}
+
+.section0-txt {
 }
 
 .section0-txt p {
